@@ -1,2 +1,2 @@
-"# FuzzyCmeansClustering" 
-\br This repo has contains the implementation of FCM Algorithm 
+# FuzzyCmeansClustering <br /> 
+This repo has contains the implementation of FCM Algorithm 
